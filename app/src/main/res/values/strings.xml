@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Turn By Turn Technuf</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoibWFqZWR1cm1tciIsImEiOiJjajJyNmV5aHEwMDNoMzJsZXlxNzgxamJ2In0.kQohKMm73fcf5_-Uc1fvGA</string>
+</resources>

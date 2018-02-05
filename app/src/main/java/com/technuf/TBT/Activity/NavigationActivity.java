@@ -108,7 +108,7 @@ public class NavigationActivity extends AppCompatActivity implements OnNavigatio
     options.progressChangeListener(this);
     options.origin(origin);
     options.destination(points.remove(0));
-    options.shouldSimulateRoute(true);
+    options.shouldSimulateRoute(false);
     return options.build();
   }
 
